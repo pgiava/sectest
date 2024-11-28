@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<job>
+    <script language="VBScript">
+        MsgBox "Olá, este é um script VBScript dentro de um arquivo WSF!"
+    </script>
+    <script language="JavaScript">
+        WScript.Echo("Olá, este é um script JavaScript dentro de um arquivo WSF!");
+    </script>
+</job>
